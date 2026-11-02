@@ -3,5 +3,5 @@ export default function App() {
     <main>
       <h1>Encrypt File Into PNG Image</h1>
     </main>
-  )
+  );
 }
